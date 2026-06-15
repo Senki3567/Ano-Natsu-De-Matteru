@@ -20,22 +20,17 @@ Video File: ../[Lulu] Waiting in the Summer [BD 1080p Hi10 FLAC][Dual-Audio]/[Lu
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 502
-Active Line: 2845
+Scroll Position: 487
+Active Line: 494
 Video Position: 20262
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Fira Sans Medium,65,&H00FFFFFF,&H00000000,&H0039080A,&HA2181818,0,0,0,0,100,100,0,0,1,4,2.5,2,70,70,60,1
-Style: trên  Default,UVN Da Lat,95,&H00F1F4F9,&H000000FF,&H005E3022,&H96000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,120,120,53,1
-Style: Title,JI Lilliwaup-ERI,83,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,113,112,0,0,1,0,0,2,15,15,15,1
 Style: ED - Bidoro Moyou,MTD Balerno Regular,120,&H00F1F2F3,&H000000FF,&H002C2D2A,&H5A000000,-1,0,0,0,100,110,0,0,1,0,0,5,60,60,1,1
 Style: OP - Sign - Kanji,DFKai-SB,60,&H00FFFFFF,&H00BAB3A9,&H00505758,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,125,1
 Style: OP - Sign - Vie,UVN Anh Hai Nhe,80,&H00FFFFFF,&H60FFFFFF,&H00505758,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,60,60,45,1
 Style: OP - Sign - Romanji,UVN Anh Hai Nhe,80,&H00FFFFFF,&H00BAB3A9,&H00505758,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,38,1
-Style: Ep Title - Ano Natsu de Matteru,UA Squared,90,&H00000103,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
-Style: Default - Ano natsu de matteru,Fira Sans Medium,70,&H00FEF9F5,&H000000FF,&H00521601,&H6B46420D,0,0,0,0,100,100,0,0,1,3.5,2,2,10,10,40,1
-Style: Signs,MetaPro-Bold,83,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
 Style: Sign-CưongwtBas,Arial,120,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,33,33,25,1
 
 [Events]
@@ -2918,7 +2913,6 @@ Comment: 0,0:24:21.81,0:24:30.07,ED - Bidoro Moyou,,0,0,0,,{\fad(200,200)\3c&HA9
 Comment: 0,0:24:30.07,0:24:33.79,ED - Bidoro Moyou,,0,0,0,,{\fad(200,200)\3c&HA9E366&\blur5\bord3\be5\fs110}M{*\3c&HBEDB71&}ù{*\3c&HD4D37C&}a{\3c&HEACB88&} {*\3c&HBAD1AA&}h{*\3c&H8AD7CC&}è{\3c&H5BDDEF&} {*\3c&H66D3EC&}ấ{*\3c&H71C9E9&}y{\3c&H7CBFE7&} {*\3c&H8AB4E8&}r{*\3c&H98A9EA&}õ{\3c&HA69FEC&} {*\3c&HB3A4ED&}r{*\3c&HC0AAEF&}à{*\3c&HCEAFF0&}n{*\3c&HDBB5F2&}g{\3c&HE9BBF4&} {*\3c&HE9C0D0&}đ{*\3c&HE9C5AC&}ã{\3c&HEACB88&} {*\3c&HCDCE9C&}t{*\3c&HB0D2B1&}ừ{*\3c&H94D5C5&}n{*\3c&H77D9DA&}g{\3c&H5BDDEF&} tồn tại
 Comment: 0,0:24:33.79,0:24:36.50,ED - Bidoro Moyou,,0,0,0,,{\fad(200,200)\3c&HA9E366&\blur5\bord3\be5\fs110}N{*\3c&HB6DE6C&}h{*\3c&HC3D973&}ữ{*\3c&HD0D47A&}n{*\3c&HDDCF81&}g{\3c&HEACB88&} {*\3c&HBAD1AA&}k{*\3c&H8AD7CC&}ỷ{\3c&H5BDDEF&} {*\3c&H61D7ED&}n{*\3c&H68D1EB&}i{*\3c&H6ECBEA&}ệ{*\3c&H75C5E8&}m{\3c&H7CBFE7&} {*\3c&H8AB4E8&}ấ{*\3c&H98A9EA&}y{\3c&HA69FEC&} {*\3c&HBCA8EE&}e{*\3c&HD2B1F1&}m{\3c&HE9BBF4&} {*\3c&HE9C0D0&}s{*\3c&HE9C5AC&}ẽ{\3c&HEACB88&} {*\3c&HC6CFA1&}g{*\3c&HA2D4BB&}i{*\3c&H7ED8D5&}ữ{\3c&H5BDDEF&} {*\3c&H63D5ED&}m{*\3c&H6BCEEB&}ã{*\3c&H73C6E9&}i{\3c&H7CBFE7&} trong tim
 Comment: 0,0:24:36.50,0:24:50.34,ED - Bidoro Moyou,,0,0,0,,{=35}{\fad(200,200)\3c&HA9E366&\blur5\bord3\be5\fs110}H{*\3c&HBEDB71&}ã{*\3c&HD4D37C&}y{\3c&HEACB88&} {*\3c&HBAD1AA&}đ{*\3c&H8AD7CC&}ể{\3c&H5BDDEF&} {*\3c&H60D8ED&}n{*\3c&H66D3EC&}h{*\3c&H6BCEEB&}ữ{*\3c&H71C9E9&}n{*\3c&H76C4E8&}g{\3c&H7CBFE7&} {*\3c&H86B7E8&}h{*\3c&H91AFE9&}ồ{*\3c&H9BA7EA&}i{\3c&HA69FEC&} {*\3c&HBCA8EE&}ứ{*\3c&HD2B1F1&}c{\3c&HE9BBF4&} {*\3c&HE9C0D0&}ấ{*\3c&HE9C5AC&}y{\3c&HEACB88&} {*\3c&HC6CFA1&}b{*\3c&HA2D4BB&}a{*\3c&H7ED8D5&}y{\3c&H5BDDEF&} {*\3c&H66D3EC&}v{*\3c&H71C9E9&}ề{\3c&H7CBFE7&} {*\3c&H86B7E8&}v{*\3c&H91AFE9&}ớ{*\3c&H9BA7EA&}i{\3c&HA69FEC&} biển khơi
-Dialogue: 0,0:23:39.02,0:23:42.36,Title,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 34,_aegi_folddata,e0;1;7
@@ -2940,18 +2934,7 @@ Data: 130,a-mo,e{"originalText"#3A"{\\an7\\pos(960#2C1055)\\c&HCACDD3&\\blur1\\p
 Data: 131,a-mo,e{"originalText"#3A"{\\an7\\pos(960#2C1055)\\blur5\\c&HF0F0F0&\\fscx100\\fscy100\\frz0\\p1}m -55.97 6.47 l -39.29 11.31 -16.74 9.87 -7.06 1.42 -11.18 -12.99 -12.42 -27.82 -10.56 -40.58 -10.05 -42.13 -1.91 -58.39 -8.4 -75.18 -23.64 -87.53 -61.42 -88.25 -75.94 -76.62 -69.45 -40.79 -62.97 -22.05 m 13.01 1.32 l 25.37 -0.84 37.32 -12.27 37.94 -37.08 19.4 -51.8 4.07 -54.48 -5.31 -42.02 -7.68 -31.93 -6.96 -20.82 -0.06 -19.06 2.62 -4.14 3.85 -0.84 m -56.62 -186.01 l -65.68 -195.95 -65.79 -209.87 -47.89 -212.74 -45.13 -236.71 -29.66 -243.67 -18.84 -240.03 -16.63 -219.37 -14.09 -214.51 -7.46 -215.5 9.11 -219.48 19.39 -214.07 29.33 -218.6 40.93 -210.97 39.72 -193.41 39.16 -177.5 45.79 -174.63 47.01 -164.46 45.57 -155.96 36.18 -154.63 38.06 -150.99 44.8 -141.26 35.74 -130.22 23.48 -131.1 21.71 -136.62 9.67 -130.33 -7.79 -131.65 -16.63 -139.28 -21.05 -139.61 -24.69 -131.43 -40.6 -132.43 -43.8 -144.8 -42.04 -159.6 -52.31 -157.61 -59.49 -167.78"#2C"uuid"#3A"877e64fa-aa3e-46a3-b24f-174b2df05a53"}
 Data: 132,_aegi_folddata,e0;1;19
 Data: 133,_aegi_folddata,e1;1;19
-Data: 134,_aegi_perspective_ambient_plane,e360.70;648.72#7C1027.74;648.72#7C669.89;816.07#7C360.70;888.72
-Data: 135,_aegi_perspective_ambient_plane,e360.70;648.72#7C683.33;637.46#7C669.89;816.07#7C360.70;888.72
-Data: 136,_aegi_perspective_ambient_plane,e547.80;616.03#7C683.33;637.46#7C669.89;816.07#7C360.70;888.72
-Data: 137,_aegi_perspective_ambient_plane,e547.80;616.03#7C683.33;637.46#7C669.89;816.07#7C540.90;796.09
-Data: 138,_aegi_perspective_ambient_plane,e547.80;616.03#7C683.33;637.46#7C670.15;819.05#7C540.90;796.09
-Data: 139,_aegi_perspective_ambient_plane,e547.80;616.03#7C683.33;637.46#7C670.15;819.05#7C539.73;796.35
-Data: 141,_aegi_perspective_ambient_plane,e549.16;618.29#7C676.47;638.37#7C671.71;821.64#7C541.12;798.88
-Data: 142,_aegi_perspective_ambient_plane,e549.16;618.29#7C676.47;638.38#7C671.71;821.63#7C541.12;798.87
 Data: 143,_aegi_perspective_ambient_plane,e549.16;618.29#7C676.49;638.38#7C671.67;821.64#7C541.06;798.87
-Data: 144,_aegi_folddata,e0;1;20
-Data: 145,_aegi_folddata,e1;1;20
-Data: 146,_aegi_folddata,e1;1;21
 Data: 149,_aegi_perspective_ambient_plane,e549.12;618.26#7C676.45;638.35#7C671.68;821.64#7C541.07;798.88
 Data: 150,_aegi_folddata,e0;1;22
 Data: 151,_aegi_folddata,e1;1;22
