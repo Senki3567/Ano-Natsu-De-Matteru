@@ -20,9 +20,9 @@ Video File: ../[Lulu] Waiting in the Summer [BD 1080p Hi10 FLAC][Dual-Audio]/[Lu
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 493
-Active Line: 2777
-Video Position: 20783
+Scroll Position: 468
+Active Line: 472
+Video Position: 23558
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,11 +292,11 @@ Dialogue: 50,0:14:18.21,0:14:20.88,Default,Ichika,0,0,0,,Phải cảm ơn cả O
 Dialogue: 50,0:14:20.88,0:14:23.65,Default,Kaito,0,0,0,,Đợi khi nào chị ấy gọi về rồi nói cũng được.
 Dialogue: 50,0:14:23.65,0:14:24.84,Default,Ichika,0,0,0,,Ừm, mình sẽ làm.
 Dialogue: 50,0:14:27.11,0:14:28.76,Default,Kaito,0,0,0,,Ủa, cửa mở này.
-Dialogue: 50,0:14:29.38,0:14:30.56,Default,Kaito,0,0,0,,Tại sao...
-Dialogue: 50,0:14:30.56,0:14:30.97,Default,Kaito,0,0,0,,Hả?
-Dialogue: 50,0:14:30.97,0:14:33.08,Default,Remon,0,0,0,,Về trễ quá đấy.
-Dialogue: 50,0:14:33.52,0:14:35.27,Default,Remon,0,0,0,,Tôi sắp chán chết vì chờ rồi đấy.
-Dialogue: 50,0:14:35.27,0:14:37.41,Default,Tất cả,0,0,0,,Chào, mừng hai người đã về.
+Dialogue: 50,0:14:29.38,0:14:30.97,Default,Kaito,0,0,0,,Tại sao... Hả?
+Dialogue: 50,0:14:30.97,0:14:33.08,Default,Remon,0,0,0,,Ồ, về trễ quá đấy.
+Dialogue: 50,0:14:33.08,0:14:35.27,Default,Remon,0,0,0,,Tôi sắp chán chết vì chờ rồi đấy.
+Dialogue: 50,0:14:35.27,0:14:35.98,Default,Tất cả,0,0,0,,Chào.
+Dialogue: 50,0:14:35.98,0:14:37.41,Default,Tất cả,0,0,0,,Mừng hai người đã về.
 Dialogue: 50,0:14:37.41,0:14:38.90,Default,Kaito,0,0,0,,T-Tại sao?
 Dialogue: 50,0:14:39.53,0:14:42.53,Default,Tetsuro,0,0,0,,Hôm qua tao đã bảo là sẽ tổ chức\Nbuổi họp làm phim rồi mà đúng không?
 Dialogue: 50,0:14:43.14,0:14:46.74,Default,Tetsuro,0,0,0,,Xin lỗi vì đã quyết định\Nchọn nhà mày làm địa điểm tập trung.
@@ -336,8 +336,8 @@ Dialogue: 50,0:16:11.49,0:16:14.42,Default,Tetsuro,0,0,0,,Tớ chắc giáo viê
 Dialogue: 50,0:16:14.42,0:16:16.37,Default,Kaito,0,0,0,,Ừ, kiểu đó thì chắc dễ thật.
 Dialogue: 50,0:16:16.37,0:16:17.92,Default,Kanna,0,0,0,,Còn cốt truyện thì sao?
 Dialogue: 50,0:16:18.33,0:16:20.32,Default,Remon,0,0,0,,Thế này được không?
-Dialogue: 50,0:16:20.32,0:16:22.54,Default,Remon,0,0,0,,Đột nhiên có xác sống xuất hiện trong trường...
-Dialogue: 50,0:16:22.54,0:16:24.03,Default,Remon,0,0,0,,và nhóm nhân vật chính còn sống sót thì...
+Dialogue: 50,0:16:20.32,0:16:22.54,Default,Remon,0,0,0,,Đột nhiên có xác sống xuất hiện trong trường,
+Dialogue: 50,0:16:22.54,0:16:24.03,Default,Remon,0,0,0,,nhóm nhân vật chính còn sống sót thì...
 Dialogue: 50,0:16:24.03,0:16:24.96,Default,Kaito,0,0,0,,Sao nổi.
 Dialogue: 50,0:16:26.42,0:16:28.38,Default,Tetsuro,0,0,0,,Ichika-senpai, chị có ý kiến gì không?
 Dialogue: 50,0:16:26.87,0:16:30.42,Default,Remon,0,0,0,,{\an8}Kirishima-kun, gan của cậu cũng to lắm.
