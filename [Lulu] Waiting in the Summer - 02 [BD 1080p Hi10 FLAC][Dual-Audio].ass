@@ -20,8 +20,8 @@ Video File: ../[Lulu] Waiting in the Summer - 02 [BD 1080p Hi10 FLAC][Dual-Audio
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 239
-Active Line: 244
+Scroll Position: 490
+Active Line: 495
 Video Position: 19589
 
 [V4+ Styles]
@@ -84,12 +84,12 @@ Dialogue: 50,0:04:02.14,0:04:06.89,Default,Kanna,0,0,0,,Vậy sao hai người c
 Dialogue: 50,0:04:06.89,0:04:08.69,Default,Kaito,0,0,0,,C-Chuyện đó...
 Dialogue: 50,0:04:08.69,0:04:09.90,Default,Ichika,0,0,0,,T-Thực ra là...
 Dialogue: 50,0:04:09.90,0:04:12.40,Default,Ichika,0,0,0,,Do hệ thống liên kết lượng tử bị lỗi...
-Dialogue: 50,0:04:12.40,0:04:15.15,Default,Ichika,0,0,0,,và bộ chuyển đổi điện từ cũng bị hỏng nặng,\N nên em không còn nơi nào để đi nữa...
+Dialogue: 50,0:04:12.40,0:04:15.15,Default,Ichika,0,0,0,,và bộ chuyển đổi điện từ cũng bị hỏng nặng, \Nnên em không còn nơi nào để đi nữa...
 Dialogue: 50,0:04:15.15,0:04:16.61,Default,Ichika,0,0,0,,Đ-Đã vậy Inglove còn bị vấn đề...
 Dialogue: 50,0:04:16.61,0:04:19.82,Default,Nanami,0,0,0,,Khó hiểu quá, chị chẳng hiểu gì cả.
 Dialogue: 50,0:04:19.82,0:04:24.41,Default,Kaito,0,0,0,,Tóm lại là do gặp rắc rối nên chị ấy không có chỗ ở\Nvà có vẻ như chị ấy cũng không có tiền.
 Dialogue: 50,0:04:24.91,0:04:27.12,Default,Kaito,0,0,0,,Đang trên đường về thì em vô tình gặp chị ấy...
-Dialogue: 50,0:04:27.12,0:04:31.41,Default,Kaito,0,0,0,,sau khi nghe chuyện đó em nghĩ\N hay là cho chị ấy ở nhờ một đêm...
+Dialogue: 50,0:04:27.12,0:04:31.41,Default,Kaito,0,0,0,,sau khi nghe chuyện đó em nghĩ \Nhay là cho chị ấy ở nhờ một đêm...
 Dialogue: 50,0:04:31.73,0:04:36.82,Default,Kaito,0,0,0,,Đâu thể nào bỏ mặc chị ấy lang thang ngoài đường\Nsuốt đêm được, đúng chứ?
 Dialogue: 50,0:04:37.34,0:04:39.09,Default,Nanami,0,0,0,,Ra mọi chuyện là như vậy.
 Dialogue: 50,0:04:39.09,0:04:39.97,Default,Kanna,0,0,0,,Hỏi cái!
@@ -199,7 +199,7 @@ Dialogue: 50,0:09:04.78,0:09:06.59,Default,Ichika,0,0,0,,Cơm tối xong rồi �
 Dialogue: 50,0:09:08.19,0:09:09.40,Default,Ichika,0,0,0,,Có chuyện gì à?
 Dialogue: 50,0:09:09.40,0:09:11.86,Default,Kaito,0,0,0,,K-Không có gì đâu ạ.
 Comment: 50,0:09:12.89,0:09:14.53,Default,Kaito,0,0,0,,À thì...
-Dialogue: 50,0:09:14.53,0:09:15.77,Default,Kaito,0,0,0,,Chị hai đâu rồi ạ?
+Dialogue: 50,0:09:14.53,0:09:15.77,Default,Kaito,0,0,0,,Chị Hai đâu rồi ạ?
 Dialogue: 50,0:09:16.28,0:09:18.65,Default,Ichika,0,0,0,,Chị ấy bảo là vẫn chưa\Nxếp xong hành lý...
 Dialogue: 50,0:09:18.65,0:09:20.54,Default,Ichika,0,0,0,,nên đã ăn trước và về phòng rồi.
 Dialogue: 50,0:09:20.84,0:09:22.77,Default,Kaito,0,0,0,,A, ra là vậy...
@@ -279,7 +279,7 @@ Dialogue: 50,0:13:26.50,0:13:28.81,Default,Kaito,0,0,0,,Có... một chút.
 Dialogue: 50,0:13:30.04,0:13:31.51,Default,Kaito,0,0,0,,À đúng rồi, senpai.
 Dialogue: 50,0:13:32.70,0:13:35.25,Default,Kaito,0,0,0,,Trước khi về nhà, có một nơi\Nem muốn ghé qua chút.
 Dialogue: 50,0:13:35.25,0:13:37.01,Default,Ichika,0,0,0,,Bạn muốn ghé chỗ nào?
-Dialogue: 50,0:13:37.01,0:13:38.85,Default,Kaito,0,0,0,,Chị hai nhờ em đấy.
+Dialogue: 50,0:13:37.01,0:13:38.85,Default,Kaito,0,0,0,,Chị Hai nhờ em đấy.
 Dialogue: 50,0:13:38.85,0:13:40.13,Default,Ichika,0,0,0,,Onee-chan-san sao?
 Dialogue: 50,0:13:40.13,0:13:43.39,Default,Kaito,0,0,0,,Vâng, dù sao thì chị không có đồ thường\Nđể mặc cũng bất tiện mà.
 Dialogue: 50,0:13:48.29,0:13:52.37,Default,Kaito,0,0,0,,Tuy chị ấy thỉnh thoảng có chút kỳ lạ...
@@ -344,7 +344,7 @@ Dialogue: 50,0:16:26.87,0:16:30.42,Default,Remon,0,0,0,,{\an8}Kirishima-kun, gan
 Dialogue: 50,0:16:28.74,0:16:29.98,Default,Ichika,0,0,0,,Mình á?
 Dialogue: 50,0:16:29.98,0:16:32.14,Default,Tetsuro,0,0,0,,Chị là diễn viên chính mà, \Ncứ đưa ra ý tưởng nào đi?
 Dialogue: 50,0:16:30.42,0:16:31.95,Default,Kaito,0,0,0,,{\an8}C-Cứu!
-Dialogue: 50,0:16:33.07,0:16:38.89,Default,Ichika,0,0,0,,Không hẳn là cốt truyện, nhưng...\N mình muốn ngắm nhìn những phong cảnh thật đẹp.
+Dialogue: 50,0:16:33.07,0:16:38.89,Default,Ichika,0,0,0,,Không hẳn là cốt truyện, nhưng... \Nmình muốn ngắm nhìn những phong cảnh thật đẹp.
 Dialogue: 50,0:16:39.50,0:16:41.79,Default,Ichika,0,0,0,,Với lại mình cũng vừa mới tới đây thôi.
 Dialogue: 50,0:16:41.79,0:16:45.23,Default,Ichika,0,0,0,,Mình muốn đi thật nhiều nơi,\Nvà muốn ngắm nhìn thật nhiều thứ.
 Dialogue: 50,0:16:46.13,0:16:48.49,Default,Ichika,0,0,0,,{\i1}Vì có một nơi mình rất muốn đến.
